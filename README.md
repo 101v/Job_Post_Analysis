@@ -25,8 +25,9 @@ bin/kafka-console-consumer.sh --topic twitter-job-tweets-2 --from-beginning --bo
 to initialize: sudo docker run --name postgresdb -d -p 5432:5432 -e POSTGRES_PASSWORD=postgres postgres
 sudo docker start postgresdb
 
-server: localhost
-port: 5432
-db: twitterjobdb
-uid: postgres
-pwd: postgres
+
+  server: localhost
+  port: 5432
+  db: twitterjobdb
+  uid: postgres
+  pwd: postgres
