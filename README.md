@@ -26,8 +26,8 @@ to initialize: sudo docker run --name postgresdb -d -p 5432:5432 -e POSTGRES_PAS
 sudo docker start postgresdb
 
 
-  server: localhost
-  port: 5432
-  db: twitterjobdb
-  uid: postgres
+  server: localhost,
+  port: 5432,
+  db: twitterjobdb,
+  uid: postgres,
   pwd: postgres
