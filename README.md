@@ -1,6 +1,7 @@
 Streams job posting tweets from twitter and produces them in kafka stream/topic
 
 Note: Need to have twitter developer account. Keys/Tokens present in the code files are expired ones.
+
 Important commands
 
 
