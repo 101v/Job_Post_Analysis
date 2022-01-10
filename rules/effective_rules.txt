@@ -1,0 +1,3 @@
+("job opening" OR hiring OR recruitment OR "looking for") (engineer OR developer OR manager OR tester OR devops) lang:en -is:retweet
+("job opening" OR hiring OR recruitment OR "looking for") (software OR hardware OR devops OR "project management") lang:en -is:retweet
+("job opening" OR hiring OR recruitment OR "looking for") ("data science" OR datascience OR "data engineer" OR dataengineer OR ai OR cloud OR ML OR "machine learning" OR machinelearning OR "big data" OR bigdata) lang:en -is:retweet
